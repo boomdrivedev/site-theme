@@ -1,0 +1,15 @@
+{
+  "schema": "sluice/branch@1",
+  "branch": "main",
+  "log": "sluice/log@1",
+  "base": null,
+  "verified": false,
+  "window": 0,
+  "next_place": 1,
+  "next_candidate": 1,
+  "candidates": [],
+  "landing": null,
+  "release": [],
+  "outbox": [],
+  "lead": "deneb"
+}
